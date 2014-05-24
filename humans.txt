@@ -1,0 +1,14 @@
+/* TEAM */                    
+Your title: Matheus Pereira.                       
+Site: mafhper @ gmail dot com                         
+Twitter: @mafhper                          
+Location: Brasilia, Brazil
+					
+/* THANKS */
+Name: Jennifer Montanaro & Maria Sophia
+                        
+/* SITE */                         
+Last update: 2014/05/23                        
+Standards: HTML5, CSS3, JS.                        
+Components: Modernizr, jQuery, Google Fonts.                        
+Software: Sublime.
